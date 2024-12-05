@@ -1,3 +1,7 @@
+###AOC input files###
+src/main/resources/day*.txt
+src/test/resources/day*.txt
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
